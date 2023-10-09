@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ArtSpace</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="picture1">River\nSeb McKinnon</string>
+    <string name="picture2">El Aquelarre\nGoya</string>
+    <string name="picture3">Team 7 | Naruto\nMasashi Kisimoto</string>
+    <string name="picture4">Astronauts | Chainsaw Man\nTatsuki Fujimoto</string>
+    <string name="picture5">Gojo vs Sukuna | Jujutsu Kaisen\nGege Akutami</string>
+    <string name="picture6">Contemplation | Vagabond\nTakehiko Inoue</string>
 </resources>
